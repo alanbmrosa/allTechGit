@@ -7,6 +7,10 @@
 	font-size: 30px;	
 }
 
+.nav-link {
+	margin: 0px 30px;
+}
+
 .carousel-inner {
 	/*height: 500px;*/	
 }
@@ -23,4 +27,16 @@
 .card img {
 	width: 200px;
 	margin: 20px;
+}
+
+.container h3 {
+	font-family: 'Electrolize', sans-serif;
+}
+
+.cabecalho {
+	display: block;
+}
+
+#rodape img{
+	width: 150px;
 }
