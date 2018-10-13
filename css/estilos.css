@@ -1,0 +1,30 @@
+#logo2	{
+	width: 320px;
+}
+
+.navbar-nav {
+	font-family: 'Teko', sans-serif;
+	font-size: 30px;	
+}
+
+.carousel-inner {
+	/*height: 500px;*/	
+}
+
+.carousel-item img{
+	max-width: 100%;
+    height: auto;	
+}
+
+.container h3 {
+	text-align: center;
+}
+
+.card img {
+	width: 200px;
+	margin: 20px;
+}
+
+.oculta{
+	display: none;
+}
